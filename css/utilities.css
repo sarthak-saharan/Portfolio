@@ -64,16 +64,6 @@ h2::selection {
   transform: rotate(10deg);
 }
 
-body {
-  background-color: #111;
-  color: #eee;
-}
-
-.container {
-  background-color: #222;
-  border: 2px solid #333;
-}
-
 #switch:checked + .toggle-icons .moon {
   transform: rotate(250deg);
 }
